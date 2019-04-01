@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitalik14",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^0.6.3",
+    "js-md5": "^0.7.3",
+    "multiparty": "^4.2.1",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8",
+    "npm": "^6.4.1",
+    "validate": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "message": {
+	"home": "Главная",
+	"about": "О нас",
+	"blog": "Блог",
+	"feeding": "Кормление",
+	"weight_and_growth": "Вес/Рост",
+	"profile": "Профайл",
+	"statistic": "Статистика",
+	"logout": "Выход",
+	"login": "Войти",
+	"registration": "Регистрация",
+	"authorization": "Авторизация",
+	"page_not_found": "Страница не найдена",
+
+    "Start": "Начало",
+    "completion": "Завершение",
+    "left": "Левая",
+    "right": "Правая",
+    "save": "Сохранить",
+    "select_breast": "Выберите грудь",
+    "set_the_time": "Добавить",
+    "start": "Старт",
+    "start/stop": "Старт/Стоп",
+    "stop": "Стоп",
+	"to_clear": "Очистить",
+	"№": "№",
+
+	"duration": "Продолжительность",
+	"completion": "Завершение",
+	"breast": "Грудь",
+
+	"email": "Емейл",
+	"password": "Пароль",
+	"repeatPassword": "Повторите пароль",
+	"nameChild": "Имя ребенка",
+	"birthdayChild": "День рождения ребенка",
+	"gender": "Пол",
+	"man": "Мальчик",
+	"woman": "Девочка",
+
+	"picture_maximum_120_kb": "Картинка должна быть не больше 120к.",
+	"only_jpeg_or_png_format": "Только jpeg или png формат.",
+	"unknown_error": "Неизвестная ошибка.",
+	"error_load_img": "Ошибка загрузка картинки.",
+	"no_valid_picture": "Не валидная картинка.",
+	"image_loaded": "Картинка загруженна",
+	"image_no_loaded": "Картинка не загруженна"
+  }
+}
