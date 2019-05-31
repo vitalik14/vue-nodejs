@@ -3,7 +3,7 @@ const users = require("./modules/users.js");
 const db = require("./db/db.js");
 
 const EventEmitter = require("events");
-const Stream = new EventEmitter(); 
+const Stream = new EventEmitter();
 
 require("./modules/auth.js")(app, db, users);
 require("./modules/pages/posts.js")(app, db, users);
