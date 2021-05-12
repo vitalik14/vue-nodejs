@@ -13,7 +13,7 @@
     "js-md5": "^0.7.3",
     "multiparty": "^4.2.1",
     "mysql": "^2.16.0",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "npm": "^6.4.1",
     "validate": "^4.5.1"
   },
